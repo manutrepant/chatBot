@@ -11,6 +11,11 @@ Source du projet : https://github.com/manutrepant/chatBot/
 
 Démo html du projet : https://manutrepant.github.io/chatBot/
 
+<img src="https://github.com/manutrepant/chatBot/blob/main/chatBot.jpg"
+     alt="ChatBot"
+     style="float: left; margin-right: 20px;" />
+
+
 Objectif de l'exercice: Apprendre la POO en Javascript. 
 Projet : Créer un ChatBot en POO
 
