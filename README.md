@@ -5,8 +5,8 @@
 Apprenant Javascript : Premier projet POO / ChatBot
 Bonjour, voici la description de mon projet. N'hésitez pas à me communiquer vos remarques concernant ce projet POO.
 
-Source du projet :
-Démo html du projet :
+Source du projet : https://github.com/manutrepant/chatBot/
+Démo html du projet : https://manutrepant.github.io/chatBot/
 
 Objectif de l'exercice: Apprendre la POO en Javascript. 
 Projet : Créer un ChatBot en POO

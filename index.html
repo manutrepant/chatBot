@@ -34,7 +34,7 @@
               <div id="contBouton">
                 <div id="designB">
                 <button id="envoyer">Envoyer</button>
-                <input type="text" id="message" value="Bonjour rue heure" name="message" required placeholder="Aa">
+                <input type="text" id="message" name="message" required placeholder="Aa">
                 </div>
             </div>
       </form>
