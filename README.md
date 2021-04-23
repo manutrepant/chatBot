@@ -5,7 +5,10 @@
 Apprenant Javascript : Premier projet POO / ChatBot
 Bonjour, voici la description de mon projet. N'hésitez pas à me communiquer vos remarques concernant ce projet POO.
 
+Exemple de question : Bonjour pouvez vous me donner l'heure d'ouverture et votre adresse svp ? ( Mots clés : Bonjour l'heure d'ouverture adresse )
+
 Source du projet : https://github.com/manutrepant/chatBot/
+
 Démo html du projet : https://manutrepant.github.io/chatBot/
 
 Objectif de l'exercice: Apprendre la POO en Javascript. 
